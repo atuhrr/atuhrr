@@ -1,8 +1,7 @@
 ### Hello world, I'm Arthur :octocat:
 
 
-<!--
-**atuhrr/atuhrr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 
 
 I am passionate about solving problems using programming.
